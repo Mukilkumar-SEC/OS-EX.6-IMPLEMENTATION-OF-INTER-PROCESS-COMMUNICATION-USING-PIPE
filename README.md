@@ -2,12 +2,6 @@
 
 AIM:
 
-ALGORITHM:
-
-# OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE
-
-AIM:
-
  To implement the interprocess  communication using the pipe command.
 
  
@@ -77,11 +71,3 @@ RESULT:
 
 
 Thus the implementation of interprocess communication using pipe command is successfully executed.
-PROGRAM:
-
-
-
-OUTPUT:
-
-
-RESULT:
